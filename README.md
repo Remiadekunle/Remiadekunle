@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I'm Remi Adekunle, Welcome to my page!
 
 I am a full-stack software engineer who is passionate about tackling complex problems and providing equitable and fun solutions. University of Chicago 🎓, BA in Economics.
 
